@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Project Team Members: Ethan# lab-3-snazzy-meatball-003
-=======
-ahahahahahahah # lab-3-snazzy-meatball-003
->>>>>>> main
+Project Team Members: Ethan Kellerhals
+Chris Rookey
+Zach Griffith
+Catherine Xie
