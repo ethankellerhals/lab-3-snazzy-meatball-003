@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Project Team Members:
+Project Team Members: Ethan Kellerhals
 Chris Rookey
-ahahahahahahahahahaahahahahahahah # lab-3-snazzy-meatball-003
-the quick brown fox jumps over Chris's shitty windows OS
+Zach Griffith
+Catherine Xie
